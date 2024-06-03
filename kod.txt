@@ -1,0 +1,24 @@
+<h1 style="color: white">GÜNEŞ SİSTEMİ</h1>
+	
+	<div class="row">
+  <div style=" background-color: gray; margin-left: 100px;border-radius: 10px;width: 300px;height: 300px;" class="col col-3" >
+	<a href="sayfaiki.html"><img  src="images.jpg" style="padding:7px; width: 280px;border-radius: 20px"  ></a>
+	 <div align="center">
+	GEZEGENLER NEDEN YUVARLAKTIR?
+	 Gezegenler, kütle çekiminden dolayı<br> yuvarlaktır.Gezegenin kütle çekimi,<br> her taraftan, her şeyi, eşit bir şekilde <br>kendi merkezine doğ...
+	  </div>
+	 </div>
+	<br>	
+	<div class="row">	
+<div style=" background-color: gray; margin-left: 100px;border-radius: 10px;width: 300px;height: 300px;" class="col col-3" >
+	<a href="sayfaiki.html"><img  src="download.jpg" style="padding:7px; width: 280px; height: 160px; border-radius: 30px"></a>
+	 <div align="center">
+		 <br><br>
+	 ASTEROİT NEDİR?
+		 <br>
+     Asteroit, Meteorit, Meteor, Kuyruklu Yıldız Nedir?
+		 </div>
+	  </div>
+	 </div>
+	</div>
+	
